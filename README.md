@@ -1,9 +1,8 @@
 ### 我是 Lee
 
--  :tiger:23年毕业，互联网新人。
+-  :tiger:现在是23年，互联网逐梦人加油鸭!。
 - :ocean:成长：不断成长
-- :bus: 作品：TODO
-- :memo:博客：等nginx学完再放开,目前仅自用
+- :memo:博客：VPS数据云盘努力修复中...
 -  :speech_balloon:微信：暂时保密
 
 ### 座右铭:stars:
